@@ -46,7 +46,7 @@ function getInputObjectsArr() {
         },
         {
             id: 8,
-            key: "In Stock",
+            key: "Availaible",
             type: TEXT
         }
     ];
